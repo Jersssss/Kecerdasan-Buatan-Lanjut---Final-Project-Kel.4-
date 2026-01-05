@@ -1,4 +1,4 @@
-## Link Google Drive Final Project
+## Link Google Drive Final Project (Berisi Dataset, Video, dan Backup file file lainnya)
 [Klik untuk buka folder Google Drive](https://drive.google.com/drive/folders/1RPjT42qBX7nct6L3k7265Oop48mYn8q_?usp=sharing)
 
 # Final Project Kecerdasan Buatan Lanjut - Deteksi Jenis Cuaca dari Citra Langit Menggunakan CNN - Kelompok 4
